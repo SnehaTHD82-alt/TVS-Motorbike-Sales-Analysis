@@ -1,2 +1,3 @@
-# TVS-Motorbike-Sales-Analysis
-TVS motorbike sales analysis using Python and Power BI to uncover sales trends, forecast demand, optimize revenue and inventory, and improve customer satisfaction.
+# Analysis of automobile (Motorbike) sales trends for revenue maximization and inventory optimization
+### Data-Analysis-on-Power-BI-Dashboard.
+ This is a Power BI project that analyzes motorbike sales trends at a TVS showroom in Purulia to optimize inventory, maximize revenue, and achieve sales target. The approach involved collecting and preprocessing sales data using Python (pandas, scikit-learn) in a Jupyter Notebook to handle missing values and ensure accuracy. The cleaned data was then imported into Power BI (.ipynb file), where interactive dashboards were created to visualize SKU performance, customer behavior, pricing strategies, and tax implications. Forecasting models were developed to predict future demand, enabling proactive inventory management and targeted marketing efforts. Key recommendations include dynamic pricing, customer segmentation, and product innovation to enhance profitability and market competitiveness.
